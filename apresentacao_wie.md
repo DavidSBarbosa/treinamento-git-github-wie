@@ -59,11 +59,11 @@ IEEE WIE - Setembro de 2023
 
 Antes de começar, alguns links importantes:
 
-[VSCode - Editor de Textos](https://code.visualstudio.com/download) - Lembrar de instalar a extensão "Marp for VSCode"
+:point_right: [VSCode - Editor de Textos](https://code.visualstudio.com/download) - Lembrar de instalar a extensão "Marp for VSCode"
 
-[Git](https://git-scm.com/download/win)
+:point_right: [Git](https://git-scm.com/download/win)
 
-[Lista de Comandos úteis do Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16) - vamos usar isso em breve
+:point_right: [Lista de Comandos úteis do Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16) - vamos usar isso em breve
 
 # GitHub:
 
@@ -91,4 +91,4 @@ Antes de começar, alguns links importantes:
 
 - Clonar esse projeto e criar um Pull Request
 
-# Coloque seu nome abaixo:
+# Coloque seu nome abaixo :point_down: :
