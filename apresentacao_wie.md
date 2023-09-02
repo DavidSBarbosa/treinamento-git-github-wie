@@ -92,3 +92,5 @@ Antes de começar, alguns links importantes:
 - Clonar esse projeto e criar um Pull Request
 
 # Coloque seu nome abaixo :point_down: :
+
+- Cassia Reis
