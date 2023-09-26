@@ -162,6 +162,7 @@ git push origin HEAD
 :point_right: [Documentação do Github](https://docs.github.com/pt)
 
 # Muito obrigado! :handshake:
+Se possível, responda a [pesquisa de satisfação](https://forms.gle/Ti9tUEHb67fhYTNc7)!
 <!--
 _class:
  - lead
