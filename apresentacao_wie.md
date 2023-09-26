@@ -99,6 +99,29 @@ Antes de começar, alguns links importantes:
 
 - Conectar o repositório local ao repositório do GitHub;
 
-- Clonar esse projeto e criar um Pull Request
+# Criando um repositório:
+
+- Criar uma pasta na Área de Trabalho (ou em outro local);
+
+- Entrar na pasta, clicar com o botão direito do mouse e ir na opção "Abrir no Windows Terminal";
+
+- No Windows Terminal, digitar `code .`
+
+- No VSCode, criar um arquivo .md e escrever algo nele;
+
+- Seguir os comandos mostrados no Github :point_down:
+
+# Os comandos:
+
+:point_right: Veja esses comandos também no site do Github
+
+```
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin <link para o repo aqui>
+git push -u origin main
+```
 
 # Coloque seu nome abaixo :point_down: :
