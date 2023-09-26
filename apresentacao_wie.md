@@ -153,3 +153,10 @@ git push origin HEAD
 - Depois, abra um Pull Request para esta apresentação
 
 # Coloque seu nome abaixo :point_down: :
+
+
+# Links Importantes!
+
+:point_right: [Lista de Comandos úteis do Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16) 
+
+:point_right: [Documentação do Github](https://docs.github.com/pt)
