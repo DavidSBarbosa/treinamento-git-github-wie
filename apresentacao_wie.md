@@ -28,6 +28,14 @@ COEN UFSJ - Setembro de 2023
 
 - 20h50 às 23h (talvez :thinking:): configuração do ambiente local, "conectar" o repositório local ao remoto (do Github) e contribuição nesta apresentação.
 
+# Motivação (Por que e para que esse treinamento?)
+
+- No contexto da faculdade: utilizá-lo para trabalhos em grupo ou para simplesmente ter um controle das alterações que fazemos em nosso código/arquivo;
+
+- Sobre o treinamento: a ideia principal é dar uma introdução bem inicial sobre o que é versionamento de código e como fazê-lo.
+
+    - Portanto, o objetivo é que vocês saiam com o **conceito** bem definido. A parte do uso é aprimorada ao passar do tempo.
+
 # Tá, mas o que é Git e GitHub?
 
 - Git: "é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo".  
@@ -54,20 +62,14 @@ COEN UFSJ - Setembro de 2023
 - Git como uma Receita de Cozinha e GitHub como um Livro de Receitas Compartilhado
 
 (créditos ao ChatGPT)
-    
-# Motivação (Por que e para que esse treinamento?)
-
-- No contexto da faculdade: utilizá-lo para trabalhos em grupo, ou para simplesmente ter um controle das alterações que fazemos em nosso código/arquivo;
-
-- Sobre o treinamento: a ideia principal é dar uma introdução bem inicial sobre o que é versionamento de código e como fazê-lo.
-
-    - Portanto, o objetivo é que vocês saiam com o **conceito** bem definido. A parte do uso é aprimorada ao passar do tempo.
 
 # Vamos à prática!
 
 Antes de começar, alguns links importantes:
 
 :point_right: [VSCode - Editor de Textos](https://code.visualstudio.com/download) - Lembrar de instalar a extensão "Marp for VSCode"
+
+:point_right: [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=pt-br&gl=br&icid=CNavAppsWindowsApps)
 
 :point_right: [Git](https://git-scm.com/download/win)
 
