@@ -24,7 +24,7 @@ COEN UFSJ - Setembro de 2023
 
 - 19h às 20h30: introdução, download dos programas necessários, criação de uma conta no Github e criação do primeiro repositório;
 
-- 20h30 às 20h50: _Coffee Break_ - Sala 3.05/3.06;
+- 20h30 às 20h50: _Coffee Break_ :coffee: - Sala 3.05/3.06;
 
 - 20h50 às 23h (talvez :thinking:): configuração do ambiente local, "conectar" o repositório local ao remoto (do Github) e contribuição nesta apresentação.
 
@@ -139,5 +139,17 @@ git add .
 git commit -m "adicionando uma nova linha"
 git push origin HEAD
 ```
+
+# Agora, vamos colaborar com esta apresentação:
+
+- Crie um fork desse repositório no Github;
+
+- Clone na sua máquina:`git clone <endereço do repo aqui>`
+
+- Abra esta apresentação no seu VSCode;
+
+- Crie uma nova branch;
+
+- Depois, abra um Pull Request para esta apresentação
 
 # Coloque seu nome abaixo :point_down: :
