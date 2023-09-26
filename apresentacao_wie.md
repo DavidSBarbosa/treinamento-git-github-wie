@@ -124,4 +124,20 @@ git remote add origin <link para o repo aqui>
 git push -u origin main
 ```
 
+# Vamos criar uma nova branch:
+
+- Rode o seguinte comando: `git checkout -b adicionar-nova-linha`
+    - O "adicionar-nova-linha" é o nome da nossa nova branch;
+    - O comando `checkout` é utilizado para navegar entre branches, e a flag `-b` serve para criar e pular para a nova branch que criamos
+
+- Vamos escrever mais uma linha no nosso arquivo;
+
+- Depois, executar os comandos:
+
+```
+git add .
+git commit -m "adicionando uma nova linha"
+git push origin HEAD
+```
+
 # Coloque seu nome abaixo :point_down: :
