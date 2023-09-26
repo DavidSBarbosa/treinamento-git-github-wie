@@ -160,3 +160,10 @@ git push origin HEAD
 :point_right: [Lista de Comandos úteis do Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16) 
 
 :point_right: [Documentação do Github](https://docs.github.com/pt)
+
+# Muito obrigado! :handshake:
+<!--
+_class:
+ - lead
+ - invert
+-->
