@@ -18,7 +18,7 @@ _class:
 
 # Treinamento Git e GitHub
 
-IEEE WIE - Setembro de 2023
+COEN UFSJ - Setembro de 2023
 
 # Tá, mas o que é Git e GitHub?
 
