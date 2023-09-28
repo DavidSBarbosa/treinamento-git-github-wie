@@ -153,9 +153,8 @@ git push origin HEAD
 - Depois, abra um Pull Request para esta apresentação
 
 # Coloque seu nome abaixo :point_down: :
+- João Vitor Alvarez
 - Leonardo Guimarães Resende
-
-
 - Hudson
 
 # Links Importantes!
