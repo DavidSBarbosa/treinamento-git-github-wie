@@ -152,7 +152,8 @@ git push origin HEAD
 
 - Depois, abra um Pull Request para esta apresentação
 
-# Coloque seu nome abaixo :point_down: :
+# Coloque seu nome abaixo :point_down: : 
+Leandro
 
 - Mc Divertida.txt
 - João Vitor Alvarez
