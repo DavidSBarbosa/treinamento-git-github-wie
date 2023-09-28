@@ -154,6 +154,7 @@ git push origin HEAD
 
 # Coloque seu nome abaixo :point_down: :
 
+- Hudson
 
 # Links Importantes!
 
